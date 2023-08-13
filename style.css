@@ -25,6 +25,7 @@ html,body	{
 	padding: 0 5vw;
 	border-bottom: 2px solid #107C3B;
 	background-color: #107C3B;
+	position:fixed;
 }
 
 .nav img{
@@ -89,7 +90,8 @@ html,body	{
 .content{
 	height:44.5vw;
 	width:100%;
-    display:flex;
+        display:flex;
+	padding-top: 6vw;
 	
     
 }
