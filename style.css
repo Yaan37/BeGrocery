@@ -94,7 +94,7 @@ html,body	{
 	height:44.5vw;
 	width:100%;
         display:flex;
-	padding-top: 3vw;
+	
 	
     
 }
@@ -102,6 +102,7 @@ html,body	{
 content img{
 	width:max-width;
 	height:auto-height;
+	padding-top: 3vw;
 }
 	
 .left{
