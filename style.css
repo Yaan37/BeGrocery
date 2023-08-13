@@ -25,7 +25,7 @@ html,body	{
 	padding: 0 5vw;
 	border-bottom: 2px solid #107C3B;
 	background-color: #107C3B;
-	position:fixed;
+
 	 
 	
 }
@@ -94,7 +94,7 @@ html,body	{
 	height: 44.5vw;
 	width: 100%;
         display:flex;
-	padding-top: 5vw;
+
 	
     
 }
